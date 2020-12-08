@@ -1,0 +1,7 @@
+ORDER,CUSTOMER,DATE,PRICELIST,ROUTE,PRODUCT,QUANTITY,PRICE,UOM,SALESPERSON,SALES TEAM,STATUS
+SO025,Agrolait,2017-02-25,Public Pricelist,Make To Order,Basic Computer,1,10000,Unit(s),Mitchell Admin,America,Quotation
+SO025,Agrolait,2017-02-25,Public Pricelist,Make To Order,Little Server,2,50000,Unit(s),Mitchell Admin,America,Quotation
+SO025,Agrolait,2017-02-25,Public Pricelist,Make To Order,Computer Case,1,2000,Unit(s),Mitchell Admin,America,Quotation
+SO025,Agrolait,2017-02-25,Public Pricelist,Make To Order,Server,3,100000,Unit(s),Mitchell Admin,America,Quotation
+SO026,Axeloer,2017-02-26,Public Pricelist,Make To Order,Basic Computer,1,10000,Unit(s),Marc Demo,Europe,Quotation
+SO027,Camptocamp,2017-02-27,Public Pricelist,Make To Order,Little Server,2,50000,Unit(s),Marc Demo,Europe,Quotation

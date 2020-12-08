@@ -1,0 +1,5 @@
+1) Version: 12.0.0.1 | Date : 1/12/2020
+Customization for moses gitau
+	-->  Add Analytic Account, Analytic Tags, Scheduled Date, Status, Order Lines/Status, Purchase Representative, Payment Terms fields for purchase order.
+	-->  Remove description field for purchase order.
+	-->  Add Route, sales team and status fields for sale order and remove description and tax field for sale order.

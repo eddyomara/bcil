@@ -1,0 +1,7 @@
+PURCHASE ID,CURRENCY,Date,PRODUCT,Analytic Account,Analytic Tags,UOM,Scheduled Date,Status,Order Lines/Status,TAX,QUANTITY,Purchase Representative,SUPPLIER,Universal Discount,PRICE,Payment Terms,Ks Enable Discount
+PO000010,USD,2017-01-21,Basic Computer,Administrative,Contracts,Unit(s),2020-10-06,RFQ,RFQ,Tax 15.00%,1,Mitchell Admin,Agrolait,,10000,End of Following Month,
+PO000010,USD,2017-01-21,Little Server,Administrative,Contracts,Unit(s),2020-10-06,RFQ,RFQ,Tax 15.00%,2,Mitchell Admin,Agrolait,,50000,End of Following Month,
+PO000010,USD,2017-01-21,Computer Case,Administrative,Contracts,Unit(s),2020-10-06,RFQ,RFQ,,1,Mitchell Admin,Agrolait,,2000,End of Following Month,
+PO000012,EUR,2016-11-12,Server,Administrative,Contracts,Unit(s),2020-10-06,RFQ,RFQ,Tax 15.00%,3,Marc Demo,ASUSTeK,,100000,End of Following Month,
+PO000013,USD,2015-08-18,Basic Computer,Administrative,Contracts,Unit(s),2020-10-06,RFQ,RFQ,,1,Marc Demo,Axeloer,,10000,End of Following Month,
+PO000015,EUR,2017-06-07,Little Server,Administrative,Contracts,Unit(s),2020-10-06,RFQ,RFQ,Tax 15.00%,2,Marc Demo,Camptocamp,,50000,End of Following Month,
